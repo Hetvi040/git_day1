@@ -12,7 +12,6 @@ A healthy person leads a happier and more peaceful life.
 Proper, nutritious food intake is essential for the body's growth.
 Drinking sufficient water daily keeps the body hydrated.
 A balanced life includes adequate sleep and rest.
-A healthy lifestyle helps in preventing chronic diseases.
 A healthy person is more energetic and motivated.
 Avoiding excessive salt and sugar improves overall health.
 Maintaining hygiene is also part of a healthy life.
@@ -20,3 +19,5 @@ Ultimately, good health enables a person to enjoy life fully.
 Healthy living enhances both mental and physical capacity.
 This is a test file
 This is a test filee
+This is a test file.
+hello
