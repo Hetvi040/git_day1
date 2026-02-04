@@ -16,5 +16,5 @@ A healthy lifestyle helps in preventing chronic diseases.
 A healthy person is more energetic and motivated.
 Avoiding excessive salt and sugar improves overall health.
 Maintaining hygiene is also part of a healthy life.
-Healthy living enhances both mental and physical capacity.
 Ultimately, good health enables a person to enjoy life fully.
+Healthy living enhances both mental and physical capacity.
